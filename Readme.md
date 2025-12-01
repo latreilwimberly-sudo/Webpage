@@ -3,6 +3,13 @@
 Welcome to my GitHub portfolio!  
 Here you’ll find some of my projects, coursework, and my personal webpage.
 
+### 👨‍💻 About Me
+
+I’m a Computer Technology major with a concentration in Internet Technology.  
+I enjoy building creative solutions using web development and coding logic.
+
+Feel free to explore and connect with me!
+
 ---
 
 ## 🔗 Links
@@ -25,5 +32,6 @@ Here you’ll find some of my projects, coursework, and my personal webpage.
 I’m a Computer Technology major with a concentration in Internet Technology.  
 I enjoy building creative solutions using web development and coding logic.
 
-Feel free to explore and connect with me! 🚀
+Feel free to explore and connect with me! 
+
 
