@@ -19,7 +19,7 @@ Feel free to explore and connect with me!
 
 - **Personal Webpage:** [Portfolio](https://wimberlytechhub.x10host.com/Webpage/portfolio.html)
 - **Resume:** [Resume](https://github.com/latreilwimberly-sudo/Webpage/blob/7c030e20d78b8bea52373c47a4ee6ffcbb7f9580/Resume/LatreilWimberly%20Resume%20CS.pdf)
-- **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/latreil-wimberly-b19ba7290)
+- **Linkedin:** [Linkedin](https://www.linkedin.com/in/latreil-wimberly-b19ba7290)
 
 ---
 
@@ -30,6 +30,7 @@ Feel free to explore and connect with me!
 - **Guess The Word Game:** [GuessWord](https://github.com/latreilwimberly-sudo/Webpage/tree/e20f95fd559c72d0a8388da4f5ee6e92e84484b4/Guesstheword)
 
 ---
+
 
 
 
