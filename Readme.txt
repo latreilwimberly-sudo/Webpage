@@ -1,4 +1,4 @@
-Personal Webpage
+LaTreil Wimberly - CTEC 450 
 
 This repository contains the source code for my personal webpage. The site showcases my portfolio, projects, and contact information.
 
@@ -29,6 +29,7 @@ If you want to run the webpage locally:
 
 Contributing
 - This is a personal project, but feel free to fork and make your own modifications. Pull requests are welcome for improvements or suggestions.
+
 
 
 
