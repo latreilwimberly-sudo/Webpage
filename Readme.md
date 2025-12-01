@@ -1,4 +1,5 @@
-##LaTreil Wimberly Home
+#
+LaTreil Wimberly Home
 
 Personal Webpage
 
@@ -15,6 +16,7 @@ https://github.com/latreilwimberly-sudo/Webpage/tree/e20f95fd559c72d0a8388da4f5e
 
 Guesstheword
 https://github.com/latreilwimberly-sudo/Webpage/tree/e20f95fd559c72d0a8388da4f5ee6e92e84484b4/Guesstheword 
+
 
 
 
