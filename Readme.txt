@@ -4,15 +4,13 @@ This repository contains the source code for my personal webpage. The site showc
 
 ## Table of Contents
 
-- [About](#about)
-- [Live Site](#live-site)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- About
+- Live Site
+- Features
+- Technologies
+- Installation]
+- Usage
+- Contributing
 
 ## About
 
@@ -48,3 +46,12 @@ If you want to run the webpage locally:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+##Usage
+- Modify the HTML/CSS/JS files to update content or styling.
+- Add new projects to the portfolio section as needed.
+- The contact form may require additional backend setup if not using a static form service.
+
+Contributing
+- This is a personal project, but feel free to fork and make your own modifications. Pull requests are welcome for improvements or suggestions.
+
